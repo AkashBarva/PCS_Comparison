@@ -1,0 +1,11 @@
+vendor,igbt_make,failure_rate_fit,module_type
+Hopewind,Fuji,NA,"2MBI800XNE120-50, 1200 V / 800 A IGBT, I-type 3-level"
+Hoymiles,Infineon / Fuji / CRRC / Starpower,NA,"FF450R12ME4 (Infineon), 2MBI600XNG120-50 (Fuji), TG450HF12M1-G3A00 (CRRC), GD450HFX120C6SB (Starpower), and TG450HF12M1-S3A00 (CRRC) as alternative IGBT options. Exact production selection should be confirmed with Hoymiles."
+Delta,Infineon,NA,"FF1000R12KE7, 1200 V / 1000 A IGBT power module"
+FIMER,Infineon / Fuji,NA,NA
+Newen,NA,NA,NA
+Sineng,NA,NA,NA
+Inovance,NA,NA,NA
+ENERZOLVE,NA,NA,NA
+Sifang,NA,NA,NA
+Kehua,Infineon / Fuji,NA,"FF900R series, 1200 V/900 A; 2MBI800 series, 1200 V/800 A"

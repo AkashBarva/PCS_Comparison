@@ -1,0 +1,11 @@
+vendor,junction_temp_c,performance_pct,data_type,notes
+Hopewind,112.1,100,Actual operating point,Full-power operation at 51°C ambient; documented Tj = 112.1°C
+Hoymiles,150,NA,,
+Delta,25,NA,,
+FIMER,25,NA,,
+Newen,25,NA,,
+Sineng,25,NA,,
+Inovance,25,NA,,
+ENERZOLVE,25,NA,,
+Sifang,25,NA,,
+Kehua,25,NA,,
